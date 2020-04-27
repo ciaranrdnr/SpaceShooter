@@ -1,6 +1,6 @@
-# Phaser 3 Webpack Project Template
+# Phaser 3 Webpack Project
 
-### Tutorial Persiapan Workshop: FROM ZERO TO PHAS3R
+### Tutorial 
 
 >Download [Node.js](https://nodejs.org) pilih yang kiri (versi 10) kemudian install
 
